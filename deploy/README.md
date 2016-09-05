@@ -1,0 +1,1 @@
+packages, tools and scripts that related to deploy. See [deploy document](https://github.com/msopentechcn/open-hackathon/blob/master/documents/developer_guide.md#deploy) about how to deploy open hackathon.
